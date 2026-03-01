@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">TvLauncher</string>
+    <string name="app_name">Minimal TV Launcher</string>
+    <string name="apps_section_title">Tus aplicaciones</string>
+    <string name="wallpaper_picker_hint">Mantén pulsado el fondo para cambiar el wallpaper</string>
+    <string name="wallpaper_content_description">Fondo de pantalla del launcher</string>
+    <string name="app_icon_content_description">Ícono de aplicación</string>
 </resources>
